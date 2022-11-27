@@ -1,7 +1,8 @@
 - Hi, I’m Farzana Sharmin Mou
-- I’m interested in web development and image processing.
-- I’m a MERN stack developer.
-- I’m looking to collaborate on website developement.
+- I'm doing MSc in Artificial Intelligence and Machine Learning
+- I’m interested in machine learning, data science and web development.
+- I’ve 1y experience in MERN stack development.
+- I’m looking to collaborate on machine learning project.
 - How to reach me farzanamou773@gmail.com or https://www.linkedin.com/in/farzana76/
 
 <!---
