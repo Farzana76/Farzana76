@@ -1,5 +1,5 @@
-- Hi, I’m Farzana Sharmin Mou
-- I'm doing MSc in Artificial Intelligence and Machine Learning
+- Hi, I’m Farzana Sharmin Mou.
+- I'm doing MSc in Artificial Intelligence and Machine Learning at University of Birmingham.
 - I’m interested in machine learning, data science and web development.
 - I’ve 1y experience in MERN stack development.
 - I’m looking to collaborate on machine learning project.
